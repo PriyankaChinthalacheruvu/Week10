@@ -4,9 +4,9 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AdminMicroservice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OfflineUserMicroservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/festiveSale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/festiveSale" vcs="" />
     <mapping directory="$PROJECT_DIR$/festiveSaleMicroservice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/offlineUser" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/week9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/offlineUser" vcs="" />
+    <mapping directory="$PROJECT_DIR$/week9" vcs="" />
   </component>
 </project>
